@@ -1,0 +1,61 @@
+body{
+  
+}
+
+h1{
+  margin-left: 38%;
+  margin-top: 3%;
+}
+
+
+.end{
+    width: 300px;
+    background-color: rgb(85, 90, 167);
+    padding-top: 20px;
+    padding-left: 13px;
+    padding-bottom: 10px;
+    border: 3px solid black;
+    margin-left: 30px;
+   position: relative;
+   top: 1.6em;
+}
+
+.start{
+   background: rgb(226, 149, 226);
+   float: right;
+   width: 80px;
+   height: 26px;
+   padding-left: 10px;
+   margin-top: -20px;
+border-bottom: 2px solid black;
+border-left: 2px solid black;
+}
+
+.last{
+    width: 300px;
+    background-color: rgb(85, 90, 167);
+    padding-top: 20px;
+    padding-left: 13px;
+    padding-bottom: 10px;
+    border: 3px solid black;
+    position: relative;
+    left: 46.4em;
+    bottom: 9.3em;
+    
+}
+
+
+.loop{
+    width: 300px;
+    background-color: rgb(85, 90, 167);
+    padding-top: 20px;
+    padding-left: 13px;
+    padding-bottom: 10px;
+    border: 3px solid black;
+    position: relative;
+    left: 24em;
+    bottom: 20em;
+    
+}
+
+.
